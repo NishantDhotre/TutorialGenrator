@@ -1,0 +1,12 @@
+.logo{
+    transform: translateY(-2px);
+    margin-right: 10px;
+}
+
+.heros-back{
+    text-align: right;
+}
+.backimg{
+    margin-top: 2%;
+    margin-right: 0.9%;
+}
