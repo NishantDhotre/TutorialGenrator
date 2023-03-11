@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    transform: translateY(-2px);
+    margin-right: 10px;
+}
+
+.heros-back{
+    width: 30%;
+    height: 50%;
+    border: 1px solid wheat;
+}
+.backimg{
+    margin-top: 2%;
+    margin-right: 0.9%;
+}
+.logBody, .rbody, .landingBody{
+    /* background-color: logBody; */
+    text-align: center;
+    background-image: linear-gradient(45deg,rgb(8 76 148),rgb(91, 48, 132));
+}
+.lk, #navbarNavAltMarkup{
+    text-decoration: none; 
+    color: aliceblue;
+  
+}
+.MainForm{
+    width: 100%;
+    height: 93vh;
+}
+
+.rform{
+    width: 100%;
+}
